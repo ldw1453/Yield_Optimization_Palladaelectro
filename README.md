@@ -8,4 +8,5 @@ cd Ele-Pd
 conda env create -f environment.yml
 conda activate Ele-Pd
 pip install -e .
+python -m ipykernel install --user --name yield_opt
 ```
