@@ -1,5 +1,5 @@
 # to create a conda environment, run $ conda env create -f environment.yml
-name: yield_opt
+name: yield_optimization
 
 dependencies:
   - python==3.9.16
