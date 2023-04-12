@@ -3,7 +3,7 @@ import numpy as np
 import csv
 import sys 
 from os import sep
-from load_dataset import chemical_space
+from script.load_dataset import chemical_space
 
 def f_des_std(des_array):
     react_feat_all = des_array[:,des_array.max(axis=0)!=des_array.min(axis=0)]

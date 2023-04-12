@@ -1,7 +1,7 @@
 import numpy as np
 import warnings
 warnings.filterwarnings("ignore")
-from load_dataset import chemical_space
+from script.load_dataset import chemical_space
 
 from sklearn import linear_model
 from sklearn import tree
