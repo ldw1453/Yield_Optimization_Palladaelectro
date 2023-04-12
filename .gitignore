@@ -1,0 +1,7 @@
+# Ignore Jupyter Notebook checkpoint files and hidden folders
+.ipynb_checkpoints/
+**/.ipynb
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
