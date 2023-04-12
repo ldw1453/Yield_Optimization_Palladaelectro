@@ -15,15 +15,5 @@ In order to run Jupyter Notebook involved in this repository, several third-part
 # Demo & Instructions for use
 Notebook round1-round11 includes processes for productivity optimization.
 
-p 2 demonstrates the process of model selection.
-
-Notebook 3 demonstrates the process of prediction.
-
-Notebook 4 demonstrates the comparison of the delta learning predictions using 10 and 15 data input.
-
-Notebook 5 demonstrates the additional validation in substrate 1k.
-
-Notebook 6 demonstrates the baseline of prediction.
-
 ## How to cite
 The paper is under review.
